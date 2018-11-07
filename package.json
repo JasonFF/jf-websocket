@@ -1,0 +1,11 @@
+{
+  "name": "jf-websocket",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/JasonFF/jf-websocket.git",
+  "author": "JasonFF <925784658@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^6.1.0"
+  }
+}
